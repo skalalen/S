@@ -316,7 +316,7 @@ const refreshPage = ()=>{
                   <a class="nav-link" href="/Marketplace.js">My NFTs</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="/Marketplace.js" >Market Place</a>
+                  <a class="nav-link" href="/Marketplace" >Market Place</a>
                 </li>
               </ul>
             </div>
